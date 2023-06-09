@@ -1,0 +1,21 @@
+{
+    "name": "arpm/challange",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murat CAN",
+            "email": "muratcan.php@gmail.com"
+        }
+    ]
+}
