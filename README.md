@@ -1,4 +1,4 @@
-<h2>Cases</h2>
+<h2>MVC</h2>
 
 <ul>
     <li>
